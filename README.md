@@ -1,4 +1,4 @@
-# BillyCoda.github.io
-Main hub page and about me
+# BillyCoda Personal Page
+Main hub page + About Me
 
-More details and work to come
+More details and works to come
